@@ -1,5 +1,5 @@
 const express = require('express');
-const { notes } = require('./data/notes.json');
+
 const apiRoutes = require('./routes/apiRoutess');
 const htmlRoutes = require('./routes/htmlRoutess');
 const app = express();
