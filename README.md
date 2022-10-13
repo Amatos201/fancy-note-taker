@@ -1,5 +1,5 @@
 # fancy-note-taker
-
+https://github.com/Amatos201/fancy-note-taker.git
 ## Description
 
 a note taking webpage to add notes for reminders while also being able to delete them
